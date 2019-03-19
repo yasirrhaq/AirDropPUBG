@@ -1,2 +1,2 @@
 # AirDropPUBG
-Only the smoke from Air Drop PUBG using Pipeline HDR
+Fire and Smoke from Air Drop PUBG using Pipeline HDR
